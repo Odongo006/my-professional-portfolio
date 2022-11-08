@@ -16,6 +16,9 @@ Go to browser and type localhost:8080. This project should run there.
 ## Author
 👤 Author: Henry Omondi
 
+# Deployment
+Website: [@My-portfolio](https://odongo006.github.io/my-professional-portfolio/)
+
 GitHub: [@Odongo006](https://github.com/Odongo006/)
 Twitter: [@HenryOdongo007](https://twitter.com/HenryOdongo007)
 LinkedIn: [Henry Odongo](https://www.linkedin.com/in/henry-odongo-91b830182/)
