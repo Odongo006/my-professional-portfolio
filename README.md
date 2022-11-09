@@ -20,6 +20,9 @@ GitHub: [@Odongo006](https://github.com/Odongo006/)
 Twitter: [@HenryOdongo007](https://twitter.com/HenryOdongo007)
 LinkedIn: [Henry Odongo](https://www.linkedin.com/in/henry-odongo-91b830182/)
 
+#Deployment
+My Portfolio: [@website](https://odongo006.github.io/my-professional-portfolio/)
+
 # Setting up my project locally
 Clone the repository into the local computer, and then open the project using web browser.
 [My Portfolio repo](https://github.com/Odongo006/my-professional-portfolio.git)
