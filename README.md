@@ -1,34 +1,106 @@
-# Project Name
-> My Professional Portfolio
+<!-- TABLE OF CONTENTS -->
 
-## Built With
-- HTML & CSS
-- Linters
-- .gitignore
-- Package.json
+# 📗 Table of Contents
 
-# Getting Started
-Have  Node.js installed in your system.
-In cmd, run the command npm install http-server -g
-Navigate the specific path of your file folder in cmd and run the command http-server
-Go to browser and type localhost:8080. This project should run there.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-## Author
-👤 Author: Henry Omondi
+<!-- PROJECT DESCRIPTION -->
 
-GitHub: [@Odongo006](https://github.com/Odongo006/)
-Twitter: [@HenryOdongo007](https://twitter.com/HenryOdongo007)
-LinkedIn: [Henry Odongo](https://www.linkedin.com/in/henry-odongo-91b830182/)
+# 📖 [Hello Microcerse] <a name="about-project"></a>
 
-# Setting up my project locally
-Clone the repository into the local computer, and then open the project using web browser.
-[My Portfolio repo](https://github.com/Odongo006/my-professional-portfolio.git)
+**[My Professional Portfolio]**
 
-## Show your support
-Give a ⭐️ if you like this project!
+## 🛠 Built With <a name="built-with"></a>
 
-## 📝 License
-This project is MIT licensed.
+### Tech Stack <a name="tech-stack"></a>
 
-NOTE: *we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.*
+<!-- GETTING STARTED -->
 
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+a code compiler like visual studio code
+
+### Setup
+
+Clone this repository to your desired folder:
+
+use the git clone command to clone this repository or download ZIP
+
+### Install
+
+Install this project with:
+
+npm
+
+### Usage
+
+To run the project, execute the following command:
+
+npm start or live server
+
+### Deployment
+My Portfolio: [@website](https://odongo006.github.io/my-professional-portfolio/)
+
+### Run tests
+
+To run tests, run the following command:
+
+npm test
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Henry**
+
+- GitHub: [@Odongo006](https://github.com/Odongo006)
+- Twitter: [@HenryOdongo007](https://twitter.com/HenryOdongo007)
+- LinkedIn: [@HenryOdongo](https://www.linkedin.com/in/henry-odongo-91b830182/)
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project give it a ⭐️
+
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank microverse for the linters pratice
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
